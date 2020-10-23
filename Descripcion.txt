@@ -1,0 +1,3 @@
+Crear un programa en el cual le pidas al usuario que registres un triangulo,
+para esto deberas pedirle el valor de cada lado y ademas le haras saber de 
+que tipo de triangulo se trata, su area y su perimetro.
